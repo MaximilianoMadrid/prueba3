@@ -146,7 +146,7 @@ def main():
       guardar_ventas()
     elif op == '5':        
       cargar_ventas() 
-    elif op =='7':
+    elif op =='6':
       print("saliendo")
       break
     else:
